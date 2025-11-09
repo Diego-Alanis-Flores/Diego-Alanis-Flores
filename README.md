@@ -3,14 +3,14 @@ My personal repository
 ¡
 ---
 # ¡Hola! Mi nombre es Diego Alanis Flores!
-
+Esta es una RamaOG
 ##  Sobre mí 
 
 ¡Bienvenido/a a mi perfil!
 * **Objetivo actual:** Pasar el cuatri.
 * **Fun fact:** ¡Me gustan los videojuegos!
 * **Videojuegos Favoritos:**
-
+    
     * **Warframe**
         * **Dato curioso:** El juego es el "sucesor espiritual" de un título de 2008 llamado *Dark Sector*. Digital Extremes (los desarrolladores) usaron el concepto original de *Dark Sector* (que era muy diferente al juego que se lanzó) como base para lo que se convertiría en *Warframe*.
 
@@ -26,5 +26,6 @@ My personal repository
     * **Borderlands 2**
         * **Dato curioso:** Hay un PNJ (NPC) en Sanctuary llamado **Michael Mamaril** que te da armas. Es un tributo real a un fan del juego que falleció tristemente de cáncer a los 22 años. Su amigo le pidió a Gearbox si Claptrap podía leer un panegírico, y el estudio fue más allá, inmortalizándolo en el juego.
 
+        Tambien me gusta Fornite pero ya no lo juego mucho por la universidad
 
 
