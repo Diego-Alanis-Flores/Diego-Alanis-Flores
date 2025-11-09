@@ -13,6 +13,7 @@ My personal repository
 
     * **Warframe**
         * **Dato curioso:** El juego es el "sucesor espiritual" de un título de 2008 llamado *Dark Sector*. Digital Extremes (los desarrolladores) usaron el concepto original de *Dark Sector* (que era muy diferente al juego que se lanzó) como base para lo que se convertiría en *Warframe*.
+        ![Warframe GIF](https://64.media.tumblr.com/24a549930f7fd924a7274d707657dbe6/d224c6e4c5410e66-23/s540x810/04cd86367caa390ea209612091b648e2f91b69a2.gifv)
 
     * **Hollow Knight**
         * **Dato curioso:** El juego nació de una *game jam* (un maratón de desarrollo) llamada Ludum Dare. El prototipo, creado en 48 horas, se llamaba *Hungry Knight* y presentaba al personaje principal matando bichos para evitar morir de hambre.
